@@ -1,16 +1,14 @@
-# flutter_train_app
+# 4주차 개인과제 전투RPG
 
-A new Flutter project.
+![예시이미지](./1.png)
 
-## Getting Started
+## 개요
 
-This project is a starting point for a Flutter application.
+내일배움캠프 4주차 개인과제 기차 예매입니다.
 
-A few resources to get you started if this is your first Flutter project:
+### 주요 기능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- UI 구현
+- 출발역, 도착역 선택
+- (미구현) 예매 시스템
+  ![예시이미지](./2.png)
